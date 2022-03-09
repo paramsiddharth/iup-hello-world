@@ -1,0 +1,5 @@
+.vscode/
+/iup/
+*.exe
+*.o
+*.obj
